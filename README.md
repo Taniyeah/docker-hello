@@ -17,4 +17,3 @@ Great starter project to show basic Docker, Python and GitHub skills.
 
 ---
 
-## 📂 Project Structure
