@@ -10,10 +10,9 @@ Great starter project to show basic Docker, Python and GitHub skills.
 ---
 
 ## Features
-- Python + Flask mini-app
+- Python and Flask mini-app
 - Packaged in Docker
 - Exposes a tiny web server on port `5000`
-- Minimal, fast to build, easy to run anywhere
 
 ---
 
